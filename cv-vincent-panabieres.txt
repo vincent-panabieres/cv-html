@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Realisation de CV</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+<body>
+    <main>
+       <header>
+                <div class="photo">
+                    <img src="01.png" width="100%" height="100%" alt="">
+                </div>
+              <div class="des">
+                    <h3>PANABIERES vincent</h3>
+                    <p class="post">Etudiant à la plateforme</p>
+                </div>
+                <div class="right">
+                        <p><img src="mail.png" class="info">vincent.panabieres@lplateforme.io</p>
+                        <p><img src="maps.png" class="info">Marseille-France</p>
+                        <p><img src="tele.png" class="info">0617113933</p>
+                </div> 
+       </header>
+
+
+<section class="section-left">
+    <h4>Atouts</h4>
+    <hr class="light">
+     <div class="atouts">
+         <div>Curieux</div>
+         <div>giga chad</div>
+         <div>Adaptabilité/flexibilité</div>
+         <div>sociable</div>
+     </div>
+
+     <h4>Diplômes et Formations</h4>
+    <hr class="light">
+       <div class="div">
+           <div><b>Titulaire du baccalauréat et du brevet des colleges </b><strong>Lycée Felix esclangon de Manosque</strong>  Manosque <br>La 2019
+           </div>
+           <br>
+           <div><b>Permis B et liscence de pilote
+           mobile </b><strong>FFSA</strong>  Nime <br>La 2019
+           </div>
+       </div>
+
+    <h4>Expériences professionnelles</h4>
+     <hr class="light">
+        <div class="div">
+          <p><b>Stagiaire en hardware</b> <strong>Megaship, Manosque</strong><br>
+             2017<br>
+            Stagiaire dans une entreprise privé d'architecture <strong>Caton architecture</strong>.
+          </p>
+         
+          <p><b>Interimaire</b> <strong>Eclerc</strong>, Manosque<br>
+             2022<br>
+</section>
+
+<section class="section-right">
+    <h4>Competences</h4>
+    <hr class="light">
+      <div class="skls">
+
+                <div class="po">
+                    <p>html</p>
+                    <div class="cool">
+                        <div style="width:20%" class="inner"></div>
+                    </div>
+                </div>
+
+                <div class="po">
+                    <p>hardware</p>
+                    <div class="cool">
+                        <div style="width:75%" class="inner"> </div>
+                    </div>
+                </div>
+
+                <div class="po">
+                    <p>Shell , bash</p>
+                    <div class="cool">
+                        <div style="width:60%" class="inner"> </div>
+                    </div>
+                </div>
+
+                <div class="po">
+                    <p>Photoshop, Illustrator, Adobe XD/UI</p>
+                    <div class="cool">
+                        <div style="width:60%" class="inner"> </div>
+                    </div>
+                </div>
+            </div>
+
+
+     <h4>Langues</h4>
+     <hr class="light">
+     <div class="skls">
+         <div class="po">
+                    <p>Français</p>
+                    <div class="cool">
+                        <div style="width:100%" class="inner"> </div>
+                    </div>
+                </div>
+                <div class="po">
+                    <p>Anglais</p>
+                    <div class="cool">
+                        <div style="width:80%" class="inner"> </div>
+                    </div>
+                </div>
+      </div>
+     <h4>Réseaux sociaux</h4>
+     <hr class="light">
+     <div class="interet">
+      <p><img src="f.png" class="info"><span>vincent panabieres</span></p> 
+      <p><img src="l.png" class="info"><span>https://www.instagram.com/20100_pana_bieres/</span></p>
+      <p><img src="g.png" class="info"><span>vincent.panabieres@laplateforme.io</span></p>
+      <p><img src="t.png" class="info"><span>vincent panabieres</span></p> 
+     </div>
+
+
+    <h4>Centres d'intérêt</h4>
+     <hr class="light">
+     <div class="interet">
+          <div><b>Sport automobile</b></div>
+          <div><b>Naviguer sur Internet</b></div>
+          <div><b>Drogues durs</b></div>
+          <div><b>Voyage</b></div>
+     </div>
+</section>
+
+
+        <div class="srkl">
+
+        </div>
+     <hr class="light">
+    </main>
+</body>
+
+</html>
